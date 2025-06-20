@@ -896,6 +896,7 @@ footer {
 .modal-body ul {
     padding-left: 30px;
     margin-bottom: 30px;
+    list-style: none;
 }
 
 .modal-body li {
